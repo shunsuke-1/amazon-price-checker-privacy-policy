@@ -18,7 +18,7 @@ A. Amazon.co.jpの商品URLを使用してください。他国のAmazonには�
 
 不具合報告・ご要望・課金に関するお問い合わせは、以下のメールアドレスまでご連絡ください。
 
-📧 support@example.com
+📧 codingprogramwith@gmail.com
 
 できるだけ早く返信できるよう努めますが、内容によってはお時間をいただくことがあります。
 
